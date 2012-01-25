@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="YALS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="DebugW32">
+				<Option platforms="Windows;" />
+				<Option output="bin\Debug\YALS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\DebugW32\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option parameters="-i test1.txt -s" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:\include\SDL-1.2.14\include" />
+				</Compiler>
+				<Linker>
+					<Add library="mingw32" />
+					<Add library="SDLmain" />
+					<Add library="SDL.dll" />
+					<Add library="user32" />
+					<Add library="gdi32" />
+					<Add library="winmm" />
+					<Add library="dxguid" />
+					<Add directory="C:\include\SDL-1.2.14\lib" />
+				</Linker>
+			</Target>
+			<Target title="ReleaseW32">
+				<Option platforms="Windows;" />
+				<Option output="bin\Release\YALS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\ReleaseW32\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option parameters="-r 100 -c 200 -o grid2.txt -s" />
+				<Compiler>
+					<Add option="-march=core2" />
+					<Add option="-Os" />
+					<Add option="-O3" />
+					<Add directory="C:\include\SDL-1.2.14\include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="mingw32" />
+					<Add library="SDLmain" />
+					<Add library="SDL.dll" />
+					<Add library="user32" />
+					<Add library="gdi32" />
+					<Add library="winmm" />
+					<Add library="dxguid" />
+					<Add directory="C:\include\SDL-1.2.14\lib" />
+				</Linker>
+			</Target>
+			<Target title="DebugLinux">
+				<Option platforms="Unix;" />
+				<Option output="bin\DebugLinux\YALS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option parameters="-z 8 -s -i test1.txt" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="SDL" />
+				</Linker>
+			</Target>
+			<Target title="ReleaseLinux">
+				<Option platforms="Unix;" />
+				<Option output="bin\ReleaseLinux\YALS" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Linker>
+					<Add library="SDL" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="CCell.h" />
+		<Unit filename="CCellGrid.cpp" />
+		<Unit filename="CCellGrid.h" />
+		<Unit filename="CColour.h" />
+		<Unit filename="CColourScheme.h" />
+		<Unit filename="CDrawable.cpp" />
+		<Unit filename="CDrawable.h" />
+		<Unit filename="CEvent.cpp" />
+		<Unit filename="CEvent.h" />
+		<Unit filename="CFPSControl.h" />
+		<Unit filename="CGraphicCell.cpp" />
+		<Unit filename="CGraphicCell.h" />
+		<Unit filename="CGraphicGrid.cpp" />
+		<Unit filename="CGraphicGrid.h" />
+		<Unit filename="CLife.cpp" />
+		<Unit filename="CLife.h" />
+		<Unit filename="CLife_Init.cpp" />
+		<Unit filename="CLife_OnEvent.cpp" />
+		<Unit filename="CLife_Util.cpp" />
+		<Unit filename="README.txt" />
+		<Unit filename="StringSep.h" />
+		<Unit filename="YALS_32.ico" />
+		<Unit filename="YALS_64.ico" />
+		<Unit filename="grid1.txt" />
+		<Unit filename="includer.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="resources.rc">
+			<Option compilerVar="WINDRES" />
+			<Option target="DebugW32" />
+			<Option target="ReleaseW32" />
+		</Unit>
+		<Unit filename="test1.txt" />
+		<Unit filename="version.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<AutoVersioning>
+				<Scheme minor_max="10" build_max="0" rev_max="0" rev_rand_max="10" build_times_to_increment_minor="100" />
+				<Settings autoincrement="1" date_declarations="1" do_auto_increment="0" ask_to_increment="0" language="C++" svn="0" svn_directory="" header_path="version.h" />
+				<Changes_Log show_changes_editor="0" app_title="released version %M.%m.%b of %p" changeslog_path="ChangesLog.txt" />
+				<Code header_guard="VERSION_H" namespace="AutoVersion" prefix="" />
+			</AutoVersioning>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

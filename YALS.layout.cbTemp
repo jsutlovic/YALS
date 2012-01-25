@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="ReleaseW32" />
+	<File name="CCell.h" open="1" top="0" tabpos="6">
+		<Cursor position="314" topLine="0" />
+	</File>
+	<File name="CCellGrid.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="8757" topLine="345" />
+	</File>
+	<File name="CCellGrid.h" open="1" top="0" tabpos="4">
+		<Cursor position="1840" topLine="0" />
+	</File>
+	<File name="CColour.h" open="0" top="0" tabpos="10">
+		<Cursor position="728" topLine="12" />
+	</File>
+	<File name="CColourScheme.h" open="0" top="0" tabpos="0">
+		<Cursor position="1995" topLine="0" />
+	</File>
+	<File name="CDrawable.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="323" topLine="0" />
+	</File>
+	<File name="CDrawable.h" open="1" top="0" tabpos="8">
+		<Cursor position="842" topLine="0" />
+	</File>
+	<File name="CEvent.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="424" topLine="6" />
+	</File>
+	<File name="CEvent.h" open="0" top="0" tabpos="6">
+		<Cursor position="888" topLine="0" />
+	</File>
+	<File name="CFPSControl.h" open="0" top="0" tabpos="4">
+		<Cursor position="670" topLine="0" />
+	</File>
+	<File name="CGraphicCell.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="136" topLine="0" />
+	</File>
+	<File name="CGraphicCell.h" open="1" top="0" tabpos="7">
+		<Cursor position="323" topLine="0" />
+	</File>
+	<File name="CGraphicGrid.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="168" topLine="0" />
+	</File>
+	<File name="CGraphicGrid.h" open="1" top="0" tabpos="9">
+		<Cursor position="318" topLine="0" />
+	</File>
+	<File name="CLife.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="342" topLine="0" />
+	</File>
+	<File name="CLife.h" open="1" top="1" tabpos="1">
+		<Cursor position="76" topLine="0" />
+	</File>
+	<File name="CLife_Init.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1876" topLine="15" />
+	</File>
+</CodeBlocks_layout_file>

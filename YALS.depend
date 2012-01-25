@@ -1,0 +1,736 @@
+# depslib dependency file v1.0
+1322677326 source:d:\dropbox\programming\cpp\sdllife\cevent.cpp
+	"CEvent.h"
+
+1327262351 
+
+1322635589 d:\dropbox\programming\cpp\sdllife\cevent.h
+	<SDL/SDL.h>
+
+1327100156 >
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 e.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255796864 c:\include\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\begin_code.h
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\close_code.h
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1327189622 .h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1323477896 source:d:\dropbox\programming\cpp\sdllife\stringsep.cpp
+	"StringSep.h"
+
+1326985842 d:\dropbox\programming\cpp\sdllife\stringsep.h
+	<vector>
+	<string>
+
+1326985280 source:d:\dropbox\programming\cpp\sdllife\main.cpp
+	<unistd.h>
+	<string>
+	<iostream>
+	<cstdlib>
+	"CLife.h"
+
+1327206268 source:d:\dropbox\programming\cpp\sdllife\ccellgrid.cpp
+	"CCellGrid.h"
+	"StringSep.h"
+
+1327199464 d:\dropbox\programming\cpp\sdllife\ccellgrid.h
+	"includer.h"
+	"CCell.h"
+
+1326819079 d:\dropbox\programming\cpp\sdllife\includer.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<stdint.h>
+	<vector>
+	<map>
+	<cmath>
+	<string>
+	<sstream>
+
+1326677489 d:\dropbox\programming\cpp\sdllife\ccell.h
+	"includer.h"
+
+1326677489 h"
+
+1323054341 source:c:\users\firejet\dropbox\programming\cpp\sdllife\cevent.cpp
+	"CEvent.h"
+
+1322635589 c:\users\firejet\dropbox\programming\cpp\sdllife\cevent.h
+	<SDL/SDL.h>
+
+1327257007 source:c:\users\firejet\dropbox\programming\cpp\sdllife\clife.cpp
+	"CLife.h"
+
+1327256637 c:\users\firejet\dropbox\programming\cpp\sdllife\clife.h
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	"CEvent.h"
+	"CCell.h"
+	"CCellGrid.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+	"CFPSControl.h"
+	"CColourScheme.h"
+
+1327256637 heme.h"
+
+1323477896 source:c:\users\firejet\dropbox\programming\cpp\sdllife\stringsep.cpp
+	"StringSep.h"
+
+1326985842 c:\users\firejet\dropbox\programming\cpp\sdllife\stringsep.h
+	<vector>
+	<string>
+
+1326985280 source:c:\users\firejet\dropbox\programming\cpp\sdllife\main.cpp
+	<unistd.h>
+	<string>
+	<iostream>
+	<cstdlib>
+	"CLife.h"
+
+1327206268 source:c:\users\firejet\dropbox\programming\cpp\sdllife\ccellgrid.cpp
+	"CCellGrid.h"
+	"StringSep.h"
+
+1327199464 c:\users\firejet\dropbox\programming\cpp\sdllife\ccellgrid.h
+	"includer.h"
+	"CCell.h"
+
+1326819079 c:\users\firejet\dropbox\programming\cpp\sdllife\includer.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<stdint.h>
+	<vector>
+	<map>
+	<cmath>
+	<string>
+	<sstream>
+
+1326677489 c:\users\firejet\dropbox\programming\cpp\sdllife\ccell.h
+	"includer.h"
+
+1326983090 source:c:\users\firejet\dropbox\programming\cpp\sdllife\cdrawable.cpp
+	"CDrawable.h"
+
+1323115458 c:\users\firejet\dropbox\programming\cpp\sdllife\cdrawable.h
+	<SDL/SDL.h>
+
+1326606466 source:c:\users\firejet\dropbox\programming\cpp\sdllife\cgraphiccell.cpp
+	"CGraphicCell.h"
+
+1326606466 ell.h"
+
+1327188905 c:\users\firejet\dropbox\programming\cpp\sdllife\cgraphiccell.h
+	<SDL/SDL.h>
+	"CDrawable.h"
+
+1326983090 source:d:\dropbox\programming\cpp\sdllife\cdrawable.cpp
+	"CDrawable.h"
+
+1323115458 d:\dropbox\programming\cpp\sdllife\cdrawable.h
+	<SDL/SDL.h>
+
+1326606466 source:d:\dropbox\programming\cpp\sdllife\cgraphiccell.cpp
+	"CGraphicCell.h"
+
+1327188905 d:\dropbox\programming\cpp\sdllife\cgraphiccell.h
+	<SDL/SDL.h>
+	"CDrawable.h"
+
+1327257007 source:d:\dropbox\programming\cpp\sdllife\clife.cpp
+	"CLife.h"
+
+1327256637 d:\dropbox\programming\cpp\sdllife\clife.h
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	"CEvent.h"
+	"CCell.h"
+	"CCellGrid.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+	"CFPSControl.h"
+	"CColourScheme.h"
+
+1327189639 source:c:\users\firejet\dropbox\programming\cpp\sdllife\cgraphicgrid.cpp
+	"CGraphicGrid.h"
+
+1327190026 rid.h"
+
+1327189622 c:\users\firejet\dropbox\programming\cpp\sdllife\cgraphicgrid.h
+	<vector>
+	<SDL/SDL.h>
+	"CGraphicCell.h"
+	"CCell.h"
+	"CCellGrid.h"
+
+1327262052 source:c:\users\firejet\dropbox\programming\cpp\sdllife\clife_onevent.cpp
+	"CLife.h"
+
+1326984737 c:\users\firejet\dropbox\programming\cpp\sdllife\cfpscontrol.h
+	<SDL/SDL.h>
+
+1326832681 source:c:\users\firejet\dropbox\programming\cpp\sdllife\cfpscontrol.cpp
+	"CFPSControl.h"
+
+1326832681 ol.h"
+
+1327198179 source:c:\users\firejet\dropbox\programming\cpp\sdllife\clife_init.cpp
+	"CLife.h"
+
+1327262351 source:c:\users\firejet\dropbox\programming\cpp\sdllife\clife_util.cpp
+	"CLife.h"
+
+1327189639 source:d:\dropbox\programming\cpp\sdllife\cgraphicgrid.cpp
+	"CGraphicGrid.h"
+
+1327189622 d:\dropbox\programming\cpp\sdllife\cgraphicgrid.h
+	<vector>
+	<SDL/SDL.h>
+	"CGraphicCell.h"
+	"CCell.h"
+	"CCellGrid.h"
+
+1326984737 d:\dropbox\programming\cpp\sdllife\cfpscontrol.h
+	<SDL/SDL.h>
+
+1327279569 source:d:\dropbox\programming\cpp\sdllife\clife_init.cpp
+	"CLife.h"
+
+1327262052 source:d:\dropbox\programming\cpp\sdllife\clife_onevent.cpp
+	"CLife.h"
+
+1327262351 source:d:\dropbox\programming\cpp\sdllife\clife_util.cpp
+	"CLife.h"
+
+1327100156 c:\users\firejet\dropbox\programming\cpp\sdllife\ccolour.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<SDL\SDL.h>
+
+1327190026 c:\users\firejet\dropbox\programming\cpp\sdllife\ccolourscheme.h
+	<iostream>
+	<SDL\SDL.h>
+	"CColour.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+
+1327215680 source:c:\users\firejet\dropbox\programming\cpp\sdllife\resources.rc
+
+1327190026 d:\dropbox\programming\cpp\sdllife\ccolourscheme.h
+	<iostream>
+	<SDL\SDL.h>
+	"CColour.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+
+1327100156 d:\dropbox\programming\cpp\sdllife\ccolour.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<SDL\SDL.h>
+
+1327215680 source:d:\dropbox\programming\cpp\sdllife\resources.rc
+
+1326983090 source:/media/D/Dropbox/Programming/CPP/SDLLife/CDrawable.cpp
+	"CDrawable.h"
+
+1327325391 /media/D/Dropbox/Programming/CPP/SDLLife/CDrawable.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1322677326 source:/media/D/Dropbox/Programming/CPP/SDLLife/CEvent.cpp
+	"CEvent.h"
+
+1327324917 /media/D/Dropbox/Programming/CPP/SDLLife/CEvent.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1326606466 source:/media/D/Dropbox/Programming/CPP/SDLLife/CGraphicCell.cpp
+	"CGraphicCell.h"
+
+1327324750 /media/D/Dropbox/Programming/CPP/SDLLife/CGraphicCell.h
+	"CDrawable.h"
+
+1326985280 source:/media/D/Dropbox/Programming/CPP/SDLLife/main.cpp
+	<unistd.h>
+	<string>
+	<iostream>
+	<cstdlib>
+	"CLife.h"
+
+1327256637 /media/D/Dropbox/Programming/CPP/SDLLife/CLife.h
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	"CEvent.h"
+	"CCell.h"
+	"CCellGrid.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+	"CFPSControl.h"
+	"CColourScheme.h"
+
+1326677489 /media/D/Dropbox/Programming/CPP/SDLLife/CCell.h
+	"includer.h"
+
+1326819079 /media/D/Dropbox/Programming/CPP/SDLLife/includer.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<stdint.h>
+	<vector>
+	<map>
+	<cmath>
+	<string>
+	<sstream>
+
+1327199464 /media/D/Dropbox/Programming/CPP/SDLLife/CCellGrid.h
+	"includer.h"
+	"CCell.h"
+
+1327325333 /media/D/Dropbox/Programming/CPP/SDLLife/CGraphicGrid.h
+	<vector>
+	"CGraphicCell.h"
+	"CCell.h"
+	"CCellGrid.h"
+
+1327324926 /media/D/Dropbox/Programming/CPP/SDLLife/CFPSControl.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1327325353 /media/D/Dropbox/Programming/CPP/SDLLife/CColourScheme.h
+	<iostream>
+	"CColour.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+
+1327324787 /media/D/Dropbox/Programming/CPP/SDLLife/CColour.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1327206268 source:/media/D/Dropbox/Programming/CPP/SDLLife/CCellGrid.cpp
+	"CCellGrid.h"
+	"StringSep.h"
+
+1326985842 /media/D/Dropbox/Programming/CPP/SDLLife/StringSep.h
+	<vector>
+	<string>
+
+1327189639 source:/media/D/Dropbox/Programming/CPP/SDLLife/CGraphicGrid.cpp
+	"CGraphicGrid.h"
+
+1327257007 source:/media/D/Dropbox/Programming/CPP/SDLLife/CLife.cpp
+	"CLife.h"
+
+1327279569 source:/media/D/Dropbox/Programming/CPP/SDLLife/CLife_Init.cpp
+	"CLife.h"
+
+1327262052 source:/media/D/Dropbox/Programming/CPP/SDLLife/CLife_OnEvent.cpp
+	"CLife.h"
+
+1327262351 source:/media/D/Dropbox/Programming/CPP/SDLLife/CLife_Util.cpp
+	"CLife.h"
+
+1327206268 source:d:\dropbox\programming\cpp\yals\ccellgrid.cpp
+	"CCellGrid.h"
+	"StringSep.h"
+
+1327199464 d:\dropbox\programming\cpp\yals\ccellgrid.h
+	"includer.h"
+	"CCell.h"
+
+1326819079 d:\dropbox\programming\cpp\yals\includer.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<stdint.h>
+	<vector>
+	<map>
+	<cmath>
+	<string>
+	<sstream>
+
+1326677489 d:\dropbox\programming\cpp\yals\ccell.h
+	"includer.h"
+
+1326985842 d:\dropbox\programming\cpp\yals\stringsep.h
+	<vector>
+	<string>
+
+1326983090 source:d:\dropbox\programming\cpp\yals\cdrawable.cpp
+	"CDrawable.h"
+
+1327325391 d:\dropbox\programming\cpp\yals\cdrawable.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1322677326 source:d:\dropbox\programming\cpp\yals\cevent.cpp
+	"CEvent.h"
+
+1327324917 d:\dropbox\programming\cpp\yals\cevent.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1326606466 source:d:\dropbox\programming\cpp\yals\cgraphiccell.cpp
+	"CGraphicCell.h"
+
+1327324750 d:\dropbox\programming\cpp\yals\cgraphiccell.h
+	"CDrawable.h"
+
+1327189639 source:d:\dropbox\programming\cpp\yals\cgraphicgrid.cpp
+	"CGraphicGrid.h"
+
+1327325333 d:\dropbox\programming\cpp\yals\cgraphicgrid.h
+	<vector>
+	"CGraphicCell.h"
+	"CCell.h"
+	"CCellGrid.h"
+
+1327257007 source:d:\dropbox\programming\cpp\yals\clife.cpp
+	"CLife.h"
+
+1327256637 d:\dropbox\programming\cpp\yals\clife.h
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	"CEvent.h"
+	"CCell.h"
+	"CCellGrid.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+	"CFPSControl.h"
+	"CColourScheme.h"
+
+1327324926 d:\dropbox\programming\cpp\yals\cfpscontrol.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1327325353 d:\dropbox\programming\cpp\yals\ccolourscheme.h
+	<iostream>
+	"CColour.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+
+1327324787 d:\dropbox\programming\cpp\yals\ccolour.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1327262052 source:d:\dropbox\programming\cpp\yals\clife_onevent.cpp
+	"CLife.h"
+
+1327262351 source:d:\dropbox\programming\cpp\yals\clife_util.cpp
+	"CLife.h"
+
+1326985280 source:d:\dropbox\programming\cpp\yals\main.cpp
+	<unistd.h>
+	<string>
+	<iostream>
+	<cstdlib>
+	"CLife.h"
+
+1327215680 source:d:\dropbox\programming\cpp\yals\resources.rc
+
+1327279569 source:d:\dropbox\programming\cpp\yals\clife_init.cpp
+	"CLife.h"
+
+1327206268 source:c:\users\firejet\dropbox\programming\cpp\yals\ccellgrid.cpp
+	"CCellGrid.h"
+	"StringSep.h"
+
+1327199464 c:\users\firejet\dropbox\programming\cpp\yals\ccellgrid.h
+	"includer.h"
+	"CCell.h"
+
+1326819079 c:\users\firejet\dropbox\programming\cpp\yals\includer.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<stdint.h>
+	<vector>
+	<map>
+	<cmath>
+	<string>
+	<sstream>
+
+1326677489 c:\users\firejet\dropbox\programming\cpp\yals\ccell.h
+	"includer.h"
+
+1326985842 c:\users\firejet\dropbox\programming\cpp\yals\stringsep.h
+	<vector>
+	<string>
+
+1326983090 source:c:\users\firejet\dropbox\programming\cpp\yals\cdrawable.cpp
+	"CDrawable.h"
+
+1327325391 c:\users\firejet\dropbox\programming\cpp\yals\cdrawable.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1322677326 source:c:\users\firejet\dropbox\programming\cpp\yals\cevent.cpp
+	"CEvent.h"
+
+1327324917 c:\users\firejet\dropbox\programming\cpp\yals\cevent.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1326606466 source:c:\users\firejet\dropbox\programming\cpp\yals\cgraphiccell.cpp
+	"CGraphicCell.h"
+
+1327324750 c:\users\firejet\dropbox\programming\cpp\yals\cgraphiccell.h
+	"CDrawable.h"
+
+1327189639 source:c:\users\firejet\dropbox\programming\cpp\yals\cgraphicgrid.cpp
+	"CGraphicGrid.h"
+
+1327325333 c:\users\firejet\dropbox\programming\cpp\yals\cgraphicgrid.h
+	<vector>
+	"CGraphicCell.h"
+	"CCell.h"
+	"CCellGrid.h"
+
+1327257007 source:c:\users\firejet\dropbox\programming\cpp\yals\clife.cpp
+	"CLife.h"
+
+1327256637 c:\users\firejet\dropbox\programming\cpp\yals\clife.h
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	"CEvent.h"
+	"CCell.h"
+	"CCellGrid.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+	"CFPSControl.h"
+	"CColourScheme.h"
+
+1327324926 c:\users\firejet\dropbox\programming\cpp\yals\cfpscontrol.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1327325353 c:\users\firejet\dropbox\programming\cpp\yals\ccolourscheme.h
+	<iostream>
+	"CColour.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+
+1327324787 c:\users\firejet\dropbox\programming\cpp\yals\ccolour.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1327262052 source:c:\users\firejet\dropbox\programming\cpp\yals\clife_onevent.cpp
+	"CLife.h"
+
+1327262351 source:c:\users\firejet\dropbox\programming\cpp\yals\clife_util.cpp
+	"CLife.h"
+
+1326985280 source:c:\users\firejet\dropbox\programming\cpp\yals\main.cpp
+	<unistd.h>
+	<string>
+	<iostream>
+	<cstdlib>
+	"CLife.h"
+
+1327215680 source:c:\users\firejet\dropbox\programming\cpp\yals\resources.rc
+
