@@ -9,7 +9,7 @@
 
 1327100156 >
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_audio.h"
@@ -30,14 +30,14 @@
 
 1255796850 e.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_main.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_stdinc.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -63,17 +63,17 @@
 	<stdlib.h>
 	"close_code.h"
 
-1255796864 c:\include\sdl-1.2.14\include\sdl\sdl_config.h
+1255800464 c:\include\sdl-1.2.14\include\sdl\sdl_config.h
 	"SDL_platform.h"
 	<stdarg.h>
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_platform.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_platform.h
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\begin_code.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\begin_code.h
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\close_code.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\close_code.h
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_audio.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -83,23 +83,23 @@
 	"begin_code.h"
 	"close_code.h"
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_error.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_endian.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl_endian.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_mutex.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_thread.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_mutex.h"
@@ -107,24 +107,24 @@
 	<process.h>
 	"close_code.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_rwops.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_cdrom.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl_cdrom.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_events.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_active.h"
@@ -135,60 +135,60 @@
 	"begin_code.h"
 	"close_code.h"
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_active.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl_active.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_keyboard.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keysym.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_keysym.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_keysym.h
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_mouse.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_video.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796849 c:\include\sdl-1.2.14\include\sdl\sdl_joystick.h
+1255800449 c:\include\sdl-1.2.14\include\sdl\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_quit.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
 1327189622 .h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_loadso.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_timer.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_timer.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1255796850 c:\include\sdl-1.2.14\include\sdl\sdl_version.h
+1255800450 c:\include\sdl-1.2.14\include\sdl\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
@@ -733,4 +733,111 @@
 	"CLife.h"
 
 1327215680 source:c:\users\firejet\dropbox\programming\cpp\yals\resources.rc
+
+1334377399 source:g:\programming\src\cpp\projects\yals\ccellgrid.cpp
+	"CCellGrid.h"
+	"StringSep.h"
+
+1334376449 g:\programming\src\cpp\projects\yals\ccellgrid.h
+	"includer.h"
+	"CCell.h"
+
+1334371891 g:\programming\src\cpp\projects\yals\includer.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<stdint.h>
+	<vector>
+	<map>
+	<cmath>
+	<string>
+	<sstream>
+
+1334371891 g:\programming\src\cpp\projects\yals\ccell.h
+	"includer.h"
+
+1334371891 g:\programming\src\cpp\projects\yals\stringsep.h
+	<vector>
+	<string>
+
+1334371891 source:g:\programming\src\cpp\projects\yals\cdrawable.cpp
+	"CDrawable.h"
+
+1334371891 g:\programming\src\cpp\projects\yals\cdrawable.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1334371891 source:g:\programming\src\cpp\projects\yals\cevent.cpp
+	"CEvent.h"
+
+1334371891 g:\programming\src\cpp\projects\yals\cevent.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1334371891 source:g:\programming\src\cpp\projects\yals\cgraphiccell.cpp
+	"CGraphicCell.h"
+
+1334371891 g:\programming\src\cpp\projects\yals\cgraphiccell.h
+	"CDrawable.h"
+
+1334371891 source:g:\programming\src\cpp\projects\yals\cgraphicgrid.cpp
+	"CGraphicGrid.h"
+
+1334371891 g:\programming\src\cpp\projects\yals\cgraphicgrid.h
+	<vector>
+	"CGraphicCell.h"
+	"CCell.h"
+	"CCellGrid.h"
+
+1334371891 source:g:\programming\src\cpp\projects\yals\clife.cpp
+	"CLife.h"
+
+1334371891 g:\programming\src\cpp\projects\yals\clife.h
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	"CEvent.h"
+	"CCell.h"
+	"CCellGrid.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+	"CFPSControl.h"
+	"CColourScheme.h"
+
+1334371891 g:\programming\src\cpp\projects\yals\cfpscontrol.h
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1334371891 g:\programming\src\cpp\projects\yals\ccolourscheme.h
+	<iostream>
+	"CColour.h"
+	"CGraphicCell.h"
+	"CGraphicGrid.h"
+
+1334371891 g:\programming\src\cpp\projects\yals\ccolour.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<SDL\SDL.h>
+	<SDL/SDL.h>
+
+1334371891 source:g:\programming\src\cpp\projects\yals\clife_init.cpp
+	"CLife.h"
+
+1334371891 source:g:\programming\src\cpp\projects\yals\main.cpp
+	<unistd.h>
+	<string>
+	<iostream>
+	<cstdlib>
+	"CLife.h"
+
+1334371891 source:g:\programming\src\cpp\projects\yals\resources.rc
+
+1334375058 source:g:\programming\src\cpp\projects\yals\clife_onevent.cpp
+	"CLife.h"
+
+1334377928 source:g:\programming\src\cpp\projects\yals\clife_util.cpp
+	"CLife.h"
 

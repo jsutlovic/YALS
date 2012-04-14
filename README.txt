@@ -47,11 +47,13 @@ h: Toggle step mode full/half
 c: Switch colour scheme
 s: Save to file
 r: Reset grid
+x: Invert grid
 
 Patterns:
 0: Clear grid
 1: Pattern 1 ( checkerboard )
 2: Pattern 2 ( horizontal lines )
 3: Pattern 3 ( diagonal lines )
+7: Pattern 7 ( invert grid )
 8: Pattern 8 ( randomized #1 )
 9: Pattern 9 ( randomized #2 )

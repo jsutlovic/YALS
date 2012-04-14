@@ -133,6 +133,14 @@ void CLife::OnKeyUp( SDLKey sym, SDLMod mod, Uint16 unicode )
             break;
         }
 
+        case SDLK_7:
+        case SDLK_KP7:
+        case SDLK_x:
+        {
+            Patternify(7);
+            break;
+        }
+
         case SDLK_8:
         case SDLK_KP8:
         {

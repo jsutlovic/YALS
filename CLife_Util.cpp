@@ -220,6 +220,26 @@ void CLife::Patternify( int pattern )
             break;
         }
 
+        case 7:
+        {
+            //Invert grid
+            for ( int i = 0; i < LifeGrid->getRows(); i++ )
+            {
+                for ( int j = 0; j < LifeGrid->getCols(); j++ )
+                {
+                    LifeGrid->setCellAt( i, j, !( LifeGrid->getCellAt( i, j )->isAlive() ) );
+                }
+            }
+
+            std::map< CCell*, bool >* changed = LifeGrid->getChanged();
+            for ( std::map<CCell*,bool>::iterator it = changed->begin(); it != changed->end(); it++ )
+            {
+                it->second = !(it->second);
+            }
+
+            break;
+        }
+
         case 8:
         {
             LifeGrid->clearGrid();
